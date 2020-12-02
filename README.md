@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Max
 
-- 🔭 I’m currently working on <a href="https://github.com/fstwn/cockatoo"><img src="https://img.shields.io/badge/-cockatoo-000605?logo=github" alt="xhtml2pdf" align="center"/></a>
-- 🌱 I’m currently learning even more about Python as well as diving into discrete differential geometry.
+- 🔭 *I’m currently working on:* <a href="https://github.com/fstwn/cockatoo"><img src="https://img.shields.io/badge/-cockatoo-000605?logo=github" alt="xhtml2pdf" align="center"/></a> and <a href="https://github.com/fstwn/pyembroideryGH"><img src="https://img.shields.io/badge/-pyembroideryGH-000605?logo=github" alt="xhtml2pdf" align="center"/></a>
+- 🌱 *I’m currently learning:* Even more about Python as well as diving into discrete differential geometry.
 
 
 <!--
