@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Max
 
-- 
 - 🔭 *In my free time I'm working on my projects* <a href="https://github.com/fstwn/cockatoo"><img src="https://img.shields.io/badge/-cockatoo-000605?logo=github" alt="cockatoo" align="center"/></a>, <a href="https://github.com/fstwn/pyembroideryGH"><img src="https://img.shields.io/badge/-pyembroideryGH-000605?logo=github" alt="pyembroideryGH" align="center"/></a> and <a href="https://github.com/fstwn/ghpyanimation"><img src="https://img.shields.io/badge/-ghpyanimation-000605?logo=github" alt="ghpyanimation" align="center"/></a>
 - 🌱 *I’m currently learning* even more about python as well as having a shallow dive into discrete differential geometry.
 
