@@ -15,13 +15,13 @@
 
 - 🏃 I run 6 km every other morning
 - 🐶 We have a super-sweet dog lady. She also joins my on my morning runs
-- 🎹 I produce music under the moniker *Efes Twin*. Check it out via <a href="https://efestwin.bandcamp.com/">Bandcamp</a>, <a href="https://soundcloud.com/efestwin/">SoundCloud</a> or <a href="https://open.spotify.com/artist/7b8HOWG2aCjKHXGN8sBnkV?si=CZA9gosBScqm3crq-IfMzw">Spotify</a>
-- 💿 Together with some friends, we founded a record label called <a href="https://outlet.delivery/">outlet</a>. Also check this out on <a href="https://outlet-label.bandcamp.com/">Bandcamp</a> and <a href="https://soundcloud.com/outlet-label/">SoundCloud</a>
-- 📻 I play a radio show from time to time on <a href="https://radio-rasclat.com/artists/efes-twin/">Radio Rasclat</a>
+- 🎹 I produce music under the moniker *Efes Twin*. Check it out via <a href="https://efestwin.bandcamp.com/" target=_blank>Bandcamp</a>, <a href="https://soundcloud.com/efestwin/" target=_blank>SoundCloud</a> or <a href="https://open.spotify.com/artist/7b8HOWG2aCjKHXGN8sBnkV?si=CZA9gosBScqm3crq-IfMzw" target=_blank>Spotify</a>
+- 💿 Together with some friends, we founded a record label called <a href="https://outlet.delivery/" target=_blank>outlet</a>. Also check this out on <a href="https://outlet-label.bandcamp.com/" target=_blank>Bandcamp</a> and <a href="https://soundcloud.com/outlet-label/" target=_blank>SoundCloud</a>
+- 📻 I play a radio show from time to time on <a href="https://radio-rasclat.com/artists/efes-twin/" target=_blank>Radio Rasclat</a>
 
 ### Contact
 
-- 📫 *Feel free to reach out to me via* <a href="https://t.me/fstwn/">Telegram</a>
+- 📫 *Feel free to reach out to me via* <a href="https://t.me/fstwn/" target=_blank>Telegram</a>
 
 <!--
 **fstwn/fstwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
