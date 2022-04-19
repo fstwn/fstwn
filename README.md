@@ -21,7 +21,7 @@
 
 ### Contact
 
-- 📫 *Feel free to reach out to me via* <a target="_blank" href="https://t.me/fstwn/">Telegram</a>
+- 📫 *Feel free to reach out to me via* <a target="_blank" href="https://t.me/fstwn/">Telegram</a> or <a target="_blank" href="https://github.com/fstwn">Instagram</a>
 
 <!--
 **fstwn/fstwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
