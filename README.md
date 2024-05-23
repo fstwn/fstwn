@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Max
 
-- 😄 *Pronouns:* he/him
+- 😄 *Pronouns:* he/him/they/them
 - 💬 *Ask me about* geometry processing, computational design, generative design, python, music
 - 🔭 *I'm developing and maintaining my projects* <a href="https://github.com/fstwn/cockatoo"><img src="https://img.shields.io/badge/-cockatoo-000605?logo=github" alt="cockatoo" align="center"/></a>, <a href="https://github.com/fstwn/pyembroideryGH"><img src="https://img.shields.io/badge/-pyembroideryGH-000605?logo=github" alt="pyembroideryGH" align="center"/></a> and <a href="https://github.com/fstwn/ghpyanimation"><img src="https://img.shields.io/badge/-ghpyanimation-000605?logo=github" alt="ghpyanimation" align="center"/></a>
 - 🌱 *I'm currently learning* even more about *Python* as well as having a shallow dive into discrete differential geometry as well as mixed linear integer programming.
-- 🐦 *Sometimes I* write about random stuff on <a target="_blank" href="https://twitter.com/EschenbachMax">Twitter</a>.
 
 ### Stack
 
