@@ -2,7 +2,7 @@
 
 - 😄 *Pronouns:* he/him/they/them
 - 💬 *Ask me about* geometry processing, computational design, generative design, python, music
-- 🌱 *I'm currently doing a PhD* at the Digital Design Unit, TU Darmstadt under the supervision of Prof. Dr.-Ing. Oliver Tessmann.
+- 🌱 *I'm currently doing a PhD* at the **Digital Design Unit of TU Darmstadt** (@digitldesignunit) under the supervision of Prof. Dr.-Ing. Oliver Tessmann.
 
 ### Stack
 
