@@ -2,19 +2,18 @@
 
 - 😄 *Pronouns:* he/him/they/them
 - 💬 *Ask me about* geometry processing, computational design, generative design, python, music
-- 🔭 *I'm developing and maintaining my projects* <a href="https://github.com/fstwn/cockatoo"><img src="https://img.shields.io/badge/-cockatoo-000605?logo=github" alt="cockatoo" align="center"/></a>, <a href="https://github.com/fstwn/pyembroideryGH"><img src="https://img.shields.io/badge/-pyembroideryGH-000605?logo=github" alt="pyembroideryGH" align="center"/></a> and <a href="https://github.com/fstwn/ghpyanimation"><img src="https://img.shields.io/badge/-ghpyanimation-000605?logo=github" alt="ghpyanimation" align="center"/></a>
-- 🌱 *I'm currently learning* even more about *Python* as well as having a shallow dive into discrete differential geometry as well as mixed linear integer programming.
+- 🌱 *I'm currently doing a PhD* at the Digital Design Unit, TU Darmstadt under the supervision of Prof. Dr.-Ing. Oliver Tessmann.
 
 ### Stack
 
-- :rhinoceros: *Rhinoceros 7* for almost all CAD work.
+- :rhinoceros: *Rhinoceros* for almost all CAD work.
 - :snake: *Python* for programming most of my personal projects, also inside *Rhino* and *Grasshopper*.
 - :hash: *C#* for developing Plug-Ins & scripts for *Grasshopper* if *Python* doesn't cut it.
 
 ### Trivia
 
-- 🏃 I run 6 km every other morning.
-- 🐶 We have a super-sweet dog lady. She also joins me on my morning runs.
+- 🏃 I run 7-12 km three times a week and half marathon in 1:58h.
+- 🐶 I have a super-sweet part-time dog lady. She also joins me on my morning runs.
 - 🎹 I produce music under the moniker *Efes Twin*. Check it out via <a target="_blank" href="https://efestwin.bandcamp.com/">Bandcamp</a>, <a target="_blank" href="https://soundcloud.com/efestwin/">SoundCloud</a> or <a target="_blank" href="https://open.spotify.com/artist/7b8HOWG2aCjKHXGN8sBnkV?si=CZA9gosBScqm3crq-IfMzw">Spotify</a>.
 - 💿 Together with some friends, we founded a record label called <a target="_blank" href="https://outlet.delivery/">outlet</a>. Also check this out on <a target="_blank" href="https://outlet-label.bandcamp.com/">Bandcamp</a> and <a target="_blank" href="https://soundcloud.com/outlet-label/">SoundCloud</a>.
 - 📻 I play a radio show from time to time on <a target="_blank" href="https://radio-rasclat.com/artists/efes-twin/">Radio Rasclat</a>.
