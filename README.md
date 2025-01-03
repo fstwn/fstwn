@@ -2,7 +2,8 @@
 
 - 😄 *Pronouns:* he/him/they/them
 - 💬 *Ask me about* geometry processing, computational design, generative design, python, music
-- 🌱 *I'm currently doing a PhD* at the <a target="_blank" href="https://www.dg.architektur.tu-darmstadt.de/fachgebiet_ddu/index.en.jsp">**Digital Design Unit of TU Darmstadt**</a> (<a target="_blank" href="https://github.com/digitaldesignunit/">@digitaldesignunit</a>) under the supervision of Prof. Dr.-Ing. Oliver Tessmann.
+- 🌱 *I'm currently pursuing a PhD* at the <a target="_blank" href="https://www.dg.architektur.tu-darmstadt.de/fachgebiet_ddu/index.en.jsp">**Digital Design Unit of TU Darmstadt**</a> (<a target="_blank" href="https://github.com/digitaldesignunit/">@digitaldesignunit</a>) under the supervision of Prof. Dr.-Ing. Oliver Tessmann.
+- 🔭 *For the future* I want to enable more sustainable building practices through my research towards component reuse.
 
 ### Stack
 
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 People
 
-:bowtie: :bowtie:	😄 :smile:	😆 :laughing:
+😄 :smile:	😆 :laughing:
 😊 :blush:	😃 :smiley:	☺️ :relaxed:
 😏 :smirk:	😍 :heart_eyes:	😘 :kissing_heart:
 😚 :kissing_closed_eyes:	😳 :flushed:	😌 :relieved:
@@ -97,11 +98,6 @@ People
 👂 :ear:	👀 :eyes:	👃 :nose:
 👅 :tongue:	💌 :love_letter:	👤 :bust_in_silhouette:
 👥 :busts_in_silhouette:	💬 :speech_balloon:	💭 :thought_balloon:
-:feelsgood: :feelsgood:	:finnadie: :finnadie:	:goberserk: :goberserk:
-:godmode: :godmode:	:hurtrealbad: :hurtrealbad:	:rage1: :rage1:
-:rage2: :rage2:	:rage3: :rage3:	:rage4: :rage4:
-:suspect: :suspect:	:trollface: :trollface:	
-Nature
 
 ☀️ :sunny:	☔ :umbrella:	☁️ :cloud:
 ❄️ :snowflake:	⛄ :snowman:	⚡ :zap:
@@ -140,10 +136,10 @@ Nature
 🌗 :last_quarter_moon:	🌘 :waning_crescent_moon:	🌜 :last_quarter_moon_with_face:
 🌛 :first_quarter_moon_with_face:	🌔 :moon:	🌍 :earth_africa:
 🌎 :earth_americas:	🌏 :earth_asia:	🌋 :volcano:
-🌌 :milky_way:	⛅ :partly_sunny:	:octocat: :octocat:
-:squirrel: :squirrel:		
-Objects
+🌌 :milky_way:	⛅ :partly_sunny:
 
+
+Objects
 🎍 :bamboo:	💝 :gift_heart:	🎎 :dolls:
 🎒 :school_satchel:	🎓 :mortar_board:	🎏 :flags:
 🎆 :fireworks:	🎇 :sparkler:	🎐 :wind_chime:
@@ -231,8 +227,8 @@ Objects
 🍌 :banana:	🍐 :pear:	🍍 :pineapple:
 🍠 :sweet_potato:	🍆 :eggplant:	🍅 :tomato:
 🌽 :corn:		
-Places
 
+Places
 🏠 :house:	🏡 :house_with_garden:	🏫 :school:
 🏢 :office:	🏣 :post_office:	🏥 :hospital:
 🏦 :bank:	🏪 :convenience_store:	🏩 :love_hotel:
